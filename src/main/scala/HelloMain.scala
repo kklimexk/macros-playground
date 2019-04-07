@@ -1,4 +1,4 @@
 @hello
-object Test extends App {
+object HelloMain extends App {
   println(this.hello)
 }
